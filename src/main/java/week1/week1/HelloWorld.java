@@ -9,9 +9,9 @@ public class HelloWorld {
 		for (int i = 0; i < 10; i++) {
 			System.out.println("Git je mega");
 		}
-		
-		System.out.println(123);
-		System.out.println(234);
+
+		System.out.println("Samuel");
+
 	}
 
 }
